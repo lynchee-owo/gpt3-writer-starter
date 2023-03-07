@@ -40,7 +40,7 @@ const Home = () => {
       <div className="container">
         <div className="header">
           <div className="header-title">
-            <h1>Titles That Catches Everyone</h1>
+            <h1>Titles That Catch Everyone</h1>
           </div>
           <div className="header-subtitle">
             <h2>Write down your video/post content and the platform below, we will generate 10 coolest titles for you.</h2>
